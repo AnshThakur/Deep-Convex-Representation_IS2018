@@ -2,6 +2,6 @@
 DCR_deep_archetypal_analysis
 
 This is an illustration of obtaining deep convex representation using Archeypal analysis at multiple levels of decomposition. 
-The corresponding Interspeech paper is also provided here.
+The pre-print draft of the corresponding Interspeech paper is available at http://faculty.iitmandi.ac.in/~padman/papers/deep-convex-representations_cameraReady_interspeech2018.pdf.
 
 Dependencies: SPAMS toolbox
