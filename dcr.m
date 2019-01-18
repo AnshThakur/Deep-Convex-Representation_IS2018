@@ -23,7 +23,7 @@ A1=full(A1);
 A2=full(A2);
 
 %% level 3 decomposition 
-[D3 A3 B] = mexArchetypalAnalysis(A1,param);
+[D3 A3 B] = mexArchetypalAnalysis(A2,param);
 A3=full(A3);
 
 %% get final dictionary
